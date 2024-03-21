@@ -1,0 +1,14 @@
+.sort{
+    display: flex;
+    gap: 50px;
+    padding-bottom: 20px;
+}
+.select{
+    padding: 8px 10px;
+    border-radius: 6px;
+    border-width: 2px;
+}
+.select:focus{
+    outline: none;
+    border: 2px solid #0d6efd;
+}
